@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-skip-empty",
+  "version": "1.0.0",
+  "description": "An easy way for your mongoose schema to skip string keys that are empty or have a null value.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voiceboxer/mongoose-skip-empty"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
